@@ -1,2 +1,2 @@
 ## Slog 
-### A simple bloggin application
+### A simple blogging application
